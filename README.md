@@ -1,5 +1,9 @@
 Nama : Ahmad Samsul Arifin
+
+
 Nim : 2409116113
+
+
 Mini Project 1 Pemrograamn Aplikasi Bergerak
 
 
